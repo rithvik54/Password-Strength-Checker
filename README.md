@@ -13,3 +13,8 @@ A simple Java console program that checks how strong a password is based on:
 1. Compile the Java file:
    ```bash
    javac PasswordStrengthChecker.java
+
+   
+## 🧩 Sample Output
+Enter your password: Hello@123
+Password Strength: 💪 Strong
